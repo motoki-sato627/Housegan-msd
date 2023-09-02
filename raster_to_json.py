@@ -1,4 +1,3 @@
-
 import os
 import json
 import argparse
@@ -273,7 +272,7 @@ def raster_to_json(line, num):
    
   
     ### saving json files
-    with open("/Users/satomotoki/Desktop/datasets/rplan/"+num+".json","w") as f:
+    with open("/Users/satomotoki/Desktop/datasets/msd/"+num+".json","w") as f:
          json.dump(info, f)
 
 
