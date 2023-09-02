@@ -23,7 +23,9 @@ pip install argparse
 pip install numpy
 pip install matplotlib
 pip install shapely
-pip install descartes 
+pip install descartes
+git clone https://github.com/motoki-sato627/Housegan-msd.git
+cd Housegan-msd
 
 ```
 
