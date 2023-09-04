@@ -32,7 +32,7 @@ cd Housegan-msd
 How to run
 ------
   
-```python raster_to_json.py --path ~/Desktop/dataset/msd_dataset_full_mono```
+```python raster_to_json.py --path ~/Desktop/dataset/msd_dataset```
 
 Output data format
 ------
