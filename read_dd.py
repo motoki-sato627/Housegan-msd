@@ -343,6 +343,8 @@ def read_data(line):
 			out=-3	
 	##saving the name out standard (usable) layout		
 	if(out!=1):
+		print(line)
+		continue
 		h.write(line)
 	"""f=open("output.txt", "a+")
 	f.write(str(rms_type).strip('[]'))
